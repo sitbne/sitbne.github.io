@@ -1,0 +1,32 @@
+<mvc:View displayBlock="true" 
+		  xmlns:mvc="sap.ui.core.mvc" 
+		  xmlns="sap.m" 
+		  controllerName="com.katan.controller.Root"
+		  xmlns:core="sap.ui.core" 
+		  xmlns:l="sap.ui.layout" 
+		  xmlns:f="sap.ui.layout.form"
+		  >
+
+	<Shell showLogout="true">
+	<App>
+		<pages>
+			<Page showHeader="false">
+				<content>
+					<Image
+					src="/media/Brisbane-Logo-Wheel-City.jpg"
+					width='100%'
+					height='auto'>
+				</Image>
+					<IconTabBar id="idTopLevelIconTabBar" selectedKey="developmentTab" class="sapUiResponsiveContentPadding">
+						<items>
+							<IconTabFilter id="feb2018Tab" text="{i18n>feb2018Tab}" key="about" class="sapUiResponsiveMargin" icon="sap-icon://internet-browser">
+								<core:Fragment fragmentName="com.katan.view.Fragments.Feb2018" type="XML"/>
+							</IconTabFilter>
+						</items>
+					</IconTabBar>
+				</content>
+			</Page>
+		</pages>
+	</App>	  
+    </Shell>
+</mvc:View>
