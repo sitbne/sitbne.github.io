@@ -36,28 +36,8 @@
 				</uxap:subSections>
 			</uxap:ObjectPageSection>
 
-			<uxap:ObjectPageSection title="{i18n>feb2018AbapGitSection}">
-				<uxap:subSections>
-					<uxap:ObjectPageSubSection title="{i18n>feb2018AbapGitSubSection}">
-						<uxap:blocks>
-							<Text text="{i18n>feb2018AbapGitText}"/>
-						</uxap:blocks>
-					</uxap:ObjectPageSubSection>
-					<uxap:ObjectPageSubSection title="{i18n>feb2018AbapGitExtraSubSection}">
-						<uxap:blocks>
-							<Text text="{i18n>feb2018AbapGitExtraText}"/>
-							<HBox>
-								<VBox>
-									<Link text="Video Content" href="/media/ABAPGit.zip" target="_blank" />
-			
-								</VBox>
-							</HBox>
-									
-						</uxap:blocks>
-					</uxap:ObjectPageSubSection>
+											<core:Fragment fragmentName="com.katan.view.Fragments.abapGit" type="XML"/>
 
-				</uxap:subSections>
-			</uxap:ObjectPageSection>
 
 		</uxap:sections>
 	</uxap:ObjectPageLayout>

@@ -1,0 +1,28 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core" xmlns:uxap="sap.uxap">
+			<uxap:ObjectPageSection title="{i18n>feb2018AbapGitSection}">
+				<uxap:subSections>
+					<uxap:ObjectPageSubSection title="{i18n>feb2018AbapGitSubSection}">
+						<uxap:blocks>
+							<Text text="{i18n>feb2018AbapGitText}"/>
+						</uxap:blocks>
+					</uxap:ObjectPageSubSection>
+					<uxap:ObjectPageSubSection title="{i18n>feb2018AbapGitExtraSubSection}">
+						<uxap:blocks>
+<!-- 							<Text text="{i18n>feb2018AbapGitExtraText}"/> -->
+<!-- 							<HBox> -->
+								<VBox>
+<!-- 									<Link text="Video Content" href="/media/ABAPGit.zip" target="_blank" /> -->
+	    <FormattedText
+	      htmlText='&lt;p&gt;abapGit is a git client for ABAP developed in ABAP. It will run on SAP Basis version 702 or higher.&lt;/p&gt;
+	      &lt;p&gt;Full details of the project, including installation steps, can be found here.&lt;/p&gt;
+	      &lt;p&gt;After rendering, the DOM nodes can be modified by an action such as add node, remove node, modify attribute, or attach event handler, for example. You can click into the HTML control below to simulate such dynamic changes. But whenever the control is rendered again, the original HTML fragment is also rendered and new DOM nodes replace the existing modified ones. Check it with the Redraw button which invalidates and re-renders the HTML control.&lt;/p&gt;'
+	    />
+								</VBox>
+<!-- 							</HBox>
+ -->									
+						</uxap:blocks>
+					</uxap:ObjectPageSubSection>
+
+				</uxap:subSections>
+			</uxap:ObjectPageSection>
+</core:FragmentDefinition>
