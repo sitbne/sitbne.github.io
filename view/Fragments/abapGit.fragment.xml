@@ -1,28 +1,57 @@
 <core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core" xmlns:uxap="sap.uxap">
-			<uxap:ObjectPageSection title="{i18n>feb2018AbapGitSection}">
-				<uxap:subSections>
-					<uxap:ObjectPageSubSection title="{i18n>feb2018AbapGitSubSection}">
-						<uxap:blocks>
-							<Text text="{i18n>feb2018AbapGitText}"/>
-						</uxap:blocks>
-					</uxap:ObjectPageSubSection>
-					<uxap:ObjectPageSubSection title="{i18n>feb2018AbapGitExtraSubSection}">
-						<uxap:blocks>
-<!-- 							<Text text="{i18n>feb2018AbapGitExtraText}"/> -->
-<!-- 							<HBox> -->
-								<VBox>
-<!-- 									<Link text="Video Content" href="/media/ABAPGit.zip" target="_blank" /> -->
-	    <FormattedText
-	      htmlText='&lt;p&gt;abapGit is a git client for ABAP developed in ABAP. It will run on SAP Basis version 702 or higher.&lt;/p&gt;
-	      &lt;p&gt;Full details of the project, including installation steps, can be found here.&lt;/p&gt;
-	      &lt;p&gt;After rendering, the DOM nodes can be modified by an action such as add node, remove node, modify attribute, or attach event handler, for example. You can click into the HTML control below to simulate such dynamic changes. But whenever the control is rendered again, the original HTML fragment is also rendered and new DOM nodes replace the existing modified ones. Check it with the Redraw button which invalidates and re-renders the HTML control.&lt;/p&gt;'
-	    />
-								</VBox>
-<!-- 							</HBox>
- -->									
-						</uxap:blocks>
-					</uxap:ObjectPageSubSection>
-
-				</uxap:subSections>
-			</uxap:ObjectPageSection>
+    <uxap:ObjectPageSection title="{i18n>feb2018AbapGitSection}">
+        <uxap:subSections>
+            <uxap:ObjectPageSubSection title="{i18n>feb2018AbapGitSubSection}">
+                <uxap:blocks>
+                    <Text text="{i18n>feb2018AbapGitText}" /> </uxap:blocks>
+            </uxap:ObjectPageSubSection>
+            <uxap:ObjectPageSubSection title="{i18n>feb2018AbapGitExtraSubSection}">
+                <uxap:blocks>
+                    <VBox>
+                        <FormattedText htmlText='&lt;p&gt;abapGit is a git client for ABAP developed in ABAP. It will run on SAP Basis version 702 or higher.&lt;/p&gt;
+	      &lt;p&gt;Full details of the project, including installation steps, can be found &lt;a href=&quot;http://abapgit.org&quot; target=&quot;_blank&quot; style=&quot;font-size:100%&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;' />
+                        <FormattedText htmlText='&lt;p&gt;The following video shows just how easy it is to install abapGit on your ABAP development system.&lt;/p&gt;' />
+                        <core:HTML content='&lt;div class=&quot;content&quot;&gt;
+				&lt;iframe width=&quot;480&quot; height=&quot;276&quot;src=&quot;https://www.youtube.com/embed/5TCBcJCafP4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+				&lt;/div&gt;'> </core:HTML>
+                        <core:HTML content='&lt;div class=&quot;content&quot;&gt;&lt;p&gt;The process for setting up SSL is fully documented in the &lt;a href=&quot;http://docs.abapgit.org/guide-ssl-setup.html&quot; target=&quot;_blank&quot; style=&quot;font-size:100%&quot;&gt;installation guide&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;'> </core:HTML>
+                        <FormattedText htmlText='&lt;p&gt;The next video shows how you can clone the abapGit repository to your local ABAP server. This will allow you to easily update it to the latest version at any time.&lt;/p&gt;' />
+                        <core:HTML content='&lt;div class=&quot;content&quot;&gt;
+				&lt;iframe width=&quot;480&quot; height=&quot;276&quot;src=&quot;https://www.youtube.com/embed/NbYJiQZeVZU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+				&lt;/div&gt;'> </core:HTML>
+                        <FormattedText htmlText='&lt;p&gt;Now onto your own developments. This video shows how to get started.&lt;/p&gt;' />
+                        <core:HTML content='&lt;div class=&quot;content&quot;&gt;
+				&lt;iframe width=&quot;480&quot; height=&quot;276&quot;src=&quot;https://www.youtube.com/embed/5fmrbL5HKXI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+				&lt;/div&gt;'> </core:HTML>
+                        <FormattedText htmlText='&lt;p&gt;And for more advanced stuff, time to look at branching.&lt;/p&gt;' />
+                        <core:HTML content='&lt;div class=&quot;content&quot;&gt;
+				&lt;iframe width=&quot;480&quot; height=&quot;276&quot;src=&quot;https://www.youtube.com/embed/YF8kXWYPH_w&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+				&lt;/div&gt;'> </core:HTML>
+                        <FormattedText htmlText='&lt;p&gt;One of the big advantages of branching is that you can always return to the master branch if you need to apply an emergency fix to production in the middle of a development cycle. This also means you need to think about conflict resolution.&lt;/p&gt;' />
+                        <core:HTML content='&lt;div class=&quot;content&quot;&gt;
+				&lt;iframe width=&quot;480&quot; height=&quot;276&quot;src=&quot;https://www.youtube.com/embed/F1Kgw7pi18Y&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+				&lt;/div&gt;'> </core:HTML>
+                        <core:HTML content='&lt;div class=&quot;content&quot;&gt;
+                        	&lt;p&gt;
+                        	Other stuff ...
+                        	&lt;ul&gt;
+                        	&lt;li&gt;
+                        	You can export to - and import from - a .ZIP file. Just like SAPLINK only better.
+                        	&lt;/li&gt;
+                        	&lt;li&gt;
+                        	Background mode - so you can automatically backup your work
+                        	&lt;/li&gt;
+                        	&lt;li&gt;
+                        	&lt;a href=&quot;http://dotabap.org/&quot; target=&quot;_blank&quot; style=&quot;font-size:100%&quot;&gt;http://dotabap.org/&lt;/a&gt; - Central place to find ABAP open source projects
+                        	&lt;/li&gt;
+                        	&lt;/ul&gt;
+                        	&lt;/p&gt;&lt;/div&gt;'> </core:HTML>
+                        <core:HTML content='&lt;div class=&quot;content&quot;&gt;&lt;p style=&quot;text-align:center&quot;&gt;
+                        	&lt;img src=&quot;media/abapgit_logo.svg&quot; &gt;
+                        	&lt;/p&gt;&lt;/div&gt;'> </core:HTML>
+                    </VBox>
+                </uxap:blocks>
+            </uxap:ObjectPageSubSection>
+        </uxap:subSections>
+    </uxap:ObjectPageSection>
 </core:FragmentDefinition>
