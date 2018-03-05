@@ -10,7 +10,7 @@
 	<Shell showLogout="true">
 	<App>
 		<pages>
-			<Page showHeader="false">
+			<Page showHeader="false" enableScrolling="false">
 				<content>
 					<Image
 					src="media/Brisbane-Logo-Wheel-City.jpg"
