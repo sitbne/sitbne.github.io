@@ -1,81 +1,65 @@
 {
   "assetsByChunkName": {
     "path---tags-other": [
-      "path---tags-other-b7e36faedcc59c3e7b4b.js",
-      "path---tags-other-b7e36faedcc59c3e7b4b.js.map"
+      "path---tags-other-1146f9002b38686d463b.js",
+      "path---tags-other-1146f9002b38686d463b.js.map"
     ],
     "path---tags-cloud-platform": [
-      "path---tags-cloud-platform-ed371b9f26410149efe7.js",
-      "path---tags-cloud-platform-ed371b9f26410149efe7.js.map"
-    ],
-    "path---may-2018": [
-      "path---may-2018-1067c714bc0d321e9b10.js",
-      "path---may-2018-1067c714bc0d321e9b10.js.map"
-    ],
-    "path---tags": [
-      "path---tags-6e3ddc4a8b0e32fa2672.js",
-      "path---tags-6e3ddc4a8b0e32fa2672.js.map"
+      "path---tags-cloud-platform-8dea4019cc2c6fd26d51.js",
+      "path---tags-cloud-platform-8dea4019cc2c6fd26d51.js.map"
     ],
     "path---tags-gateway": [
-      "path---tags-gateway-74cd4b33d88e9404e2e2.js",
-      "path---tags-gateway-74cd4b33d88e9404e2e2.js.map"
+      "path---tags-gateway-8b58aae0d179cca27e5f.js",
+      "path---tags-gateway-8b58aae0d179cca27e5f.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
-    "path---author-jakob": [
-      "path---author-jakob-a21faf9397fe03bcf813.js",
-      "path---author-jakob-a21faf9397fe03bcf813.js.map"
-    ],
     "path---categories-general": [
-      "path---categories-general-ba17cfedc4084ea6dc3e.js",
-      "path---categories-general-ba17cfedc4084ea6dc3e.js.map"
+      "path---categories-general-01842ea835d9835ca0ee.js",
+      "path---categories-general-01842ea835d9835ca0ee.js.map"
     ],
     "component---src-layouts-index-jsx": [
       "component---src-layouts-index-jsx-7addb5f7824df66f94d4.js",
       "component---src-layouts-index-jsx-7addb5f7824df66f94d4.js.map"
     ],
     "path---categories-tech": [
-      "path---categories-tech-bdcee0f64dfdcd5d41e8.js",
-      "path---categories-tech-bdcee0f64dfdcd5d41e8.js.map"
+      "path---categories-tech-2f81398d7d1fa324955b.js",
+      "path---categories-tech-2f81398d7d1fa324955b.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
-    "path---author-jorg": [
-      "path---author-jorg-1cb9ad8ad38aa08c8f43.js",
-      "path---author-jorg-1cb9ad8ad38aa08c8f43.js.map"
-    ],
     "path---february-2018": [
-      "path---february-2018-1193a116a454f357f5ec.js",
-      "path---february-2018-1193a116a454f357f5ec.js.map"
+      "path---february-2018-1cb45f266f46980674b5.js",
+      "path---february-2018-1cb45f266f46980674b5.js.map"
     ],
     "component---src-templates-category-jsx": [
       "component---src-templates-category-jsx-3f9f38b2a16b22af9077.js",
       "component---src-templates-category-jsx-3f9f38b2a16b22af9077.js.map"
     ],
     "path---index": [
-      "path---index-41881972458a0a58c18b.js",
-      "path---index-41881972458a0a58c18b.js.map"
+      "path---index-3fd69f2315d0e8055f82.js",
+      "path---index-3fd69f2315d0e8055f82.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-16dca089dee574aef9ce.js",
       "component---src-pages-about-jsx-16dca089dee574aef9ce.js.map"
     ],
     "path---tags-abap-git": [
-      "path---tags-abap-git-e2122bd66ff8ec9f27be.js",
-      "path---tags-abap-git-e2122bd66ff8ec9f27be.js.map"
+      "path---tags-abap-git-656ebd9dc956b24ccad4.js",
+      "path---tags-abap-git-656ebd9dc956b24ccad4.js.map"
     ],
     "component---src-templates-author-jsx": [
       "component---src-templates-author-jsx-12ce2ca0e878ee8e2bca.js",
       "component---src-templates-author-jsx-12ce2ca0e878ee8e2bca.js.map"
     ],
     "commons": [
-      "commons-4e7b78f5c18a15316399.js",
+      "commons-03e5a46111878027a161.js",
       "build-js-styles.css",
-      "commons-4e7b78f5c18a15316399.js.map",
+      "commons-03e5a46111878027a161.js.map",
       "build-js-styles.css.map"
     ],
     "path---author-sitbne": [
@@ -87,12 +71,12 @@
       "component---src-templates-tag-jsx-4bdc2e068a0bcea22254.js.map"
     ],
     "path---author-katan": [
-      "path---author-katan-f30159505450340a2540.js",
-      "path---author-katan-f30159505450340a2540.js.map"
+      "path---author-katan-55466760125b986f74e2.js",
+      "path---author-katan-55466760125b986f74e2.js.map"
     ],
     "path---keen-to-speak": [
-      "path---keen-to-speak-ca75de2231f5ac286326.js",
-      "path---keen-to-speak-ca75de2231f5ac286326.js.map"
+      "path---keen-to-speak-f4b2ddf884c4efc67f9d.js",
+      "path---keen-to-speak-f4b2ddf884c4efc67f9d.js.map"
     ],
     "component---src-templates-index-jsx": [
       "component---src-templates-index-jsx-c030c3e84aae5df244ae.js",
@@ -107,18 +91,18 @@
       "component---src-templates-post-jsx-0081416a3957a3e52c88.js.map"
     ],
     "app": [
-      "app-16a157274cb337ecc47b.js",
+      "app-3d463d371953e7bd5168.js",
       "build-js-styles.css",
-      "app-16a157274cb337ecc47b.js.map",
+      "app-3d463d371953e7bd5168.js.map",
       "build-js-styles.css.map"
     ],
     "path---tags-workflow": [
-      "path---tags-workflow-b2a828569e435f5ad58f.js",
-      "path---tags-workflow-b2a828569e435f5ad58f.js.map"
+      "path---tags-workflow-8b54e8ad8dcb7415ebec.js",
+      "path---tags-workflow-8b54e8ad8dcb7415ebec.js.map"
     ],
     "path---tags-stuff": [
-      "path---tags-stuff-edec8ad23bc08c508fa9.js",
-      "path---tags-stuff-edec8ad23bc08c508fa9.js.map"
+      "path---tags-stuff-bdc5ba4a1e7e06e8b3c0.js",
+      "path---tags-stuff-bdc5ba4a1e7e06e8b3c0.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
