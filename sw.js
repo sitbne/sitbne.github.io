@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/app-3d463d371953e7bd5168.js","0557b9ed05459ed14ffca54480943c5c"],["/commons-03e5a46111878027a161.js","d84af9a9d0a7c9aa249f2dcbda60e8bc"],["/index.html","8b778d01b8f08316656c1453733a43f3"],["/manifest.json","9b52fdb7a4ee010d7ec63041961d340f"],["/offline-plugin-app-shell-fallback/index.html","cc5777aa3cfc05aad533c94446129ae4"]];
+var precacheConfig = [["/sitbne.github.io/app-84ecf36b0d06e8931319.js","a6e1b35ded7e24619a1dc5692fed25bc"],["/sitbne.github.io/commons-5bc2287ad69b9f3b5525.js","446a35e9d7e0bc17a79bd1fc9f1f7234"],["/sitbne.github.io/index.html","cd21453e59f41413580a3e4d112ccfc7"],["/sitbne.github.io/manifest.json","a96b3542814cc36e48152153149fe3a7"],["/sitbne.github.io/offline-plugin-app-shell-fallback/index.html","1023697ec4fbcc9a4a6c18f605d9039d"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 
