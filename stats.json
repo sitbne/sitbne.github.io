@@ -1,5 +1,9 @@
 {
   "assetsByChunkName": {
+    "path---tags-i-os": [
+      "path---tags-i-os-7a63caa7048159af2123.js",
+      "path---tags-i-os-7a63caa7048159af2123.js.map"
+    ],
     "path---tags-other": [
       "path---tags-other-03e8463533eb755a4f1b.js",
       "path---tags-other-03e8463533eb755a4f1b.js.map"
@@ -11,6 +15,10 @@
     "path---may-2018": [
       "path---may-2018-fae7a7887088d15c2f9b.js",
       "path---may-2018-fae7a7887088d15c2f9b.js.map"
+    ],
+    "path---tags-ui-5": [
+      "path---tags-ui-5-63a9f547ae7c3a07572b.js",
+      "path---tags-ui-5-63a9f547ae7c3a07572b.js.map"
     ],
     "path---tags-sap-security": [
       "path---tags-sap-security-e85decf430cf96675f50.js",
@@ -37,8 +45,12 @@
       "component---src-layouts-index-jsx-7addb5f7824df66f94d4.js.map"
     ],
     "path---categories-tech": [
-      "path---categories-tech-dc0312d3afeabee9dfd3.js",
-      "path---categories-tech-dc0312d3afeabee9dfd3.js.map"
+      "path---categories-tech-27a6384d48887c96c64f.js",
+      "path---categories-tech-27a6384d48887c96c64f.js.map"
+    ],
+    "path---tags-sap-cloud-platform": [
+      "path---tags-sap-cloud-platform-35c5b34ae496eca70854.js",
+      "path---tags-sap-cloud-platform-35c5b34ae496eca70854.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -57,12 +69,12 @@
       "component---src-templates-category-jsx-3f9f38b2a16b22af9077.js.map"
     ],
     "path---september-2018": [
-      "path---september-2018-7e1063ac59534470bbfe.js",
-      "path---september-2018-7e1063ac59534470bbfe.js.map"
+      "path---september-2018-5e934627d4418a87d23a.js",
+      "path---september-2018-5e934627d4418a87d23a.js.map"
     ],
     "path---index": [
-      "path---index-59d5bc106e11c9e12b67.js",
-      "path---index-59d5bc106e11c9e12b67.js.map"
+      "path---index-16fd0c4f4aaba5fd8f0e.js",
+      "path---index-16fd0c4f4aaba5fd8f0e.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-16dca089dee574aef9ce.js",
@@ -87,8 +99,8 @@
       "build-js-styles.css.map"
     ],
     "path---tags-abap": [
-      "path---tags-abap-6a0b54001ae7c9990ddc.js",
-      "path---tags-abap-6a0b54001ae7c9990ddc.js.map"
+      "path---tags-abap-483283ea9284d94d3d76.js",
+      "path---tags-abap-483283ea9284d94d3d76.js.map"
     ],
     "path---author-sitbne": [
       "path---author-sitbne-6f9e52d3c87343f6ff1d.js",
@@ -99,8 +111,8 @@
       "component---src-templates-tag-jsx-4bdc2e068a0bcea22254.js.map"
     ],
     "path---author-katan": [
-      "path---author-katan-7c289fe97718ea92b676.js",
-      "path---author-katan-7c289fe97718ea92b676.js.map"
+      "path---author-katan-2a0db19bcdd0bcce23aa.js",
+      "path---author-katan-2a0db19bcdd0bcce23aa.js.map"
     ],
     "path---keen-to-speak": [
       "path---keen-to-speak-5e7d852b5a8df892c001.js",
@@ -127,9 +139,9 @@
       "path---tags-sap-business-client-a6bcb08ce3f5afc1b879.js.map"
     ],
     "app": [
-      "app-3f8ebee522d1763f4d25.js",
+      "app-11aca4e38ba0712df86b.js",
       "build-js-styles.css",
-      "app-3f8ebee522d1763f4d25.js.map",
+      "app-11aca4e38ba0712df86b.js.map",
       "build-js-styles.css.map"
     ],
     "path---tags-workflow": [
